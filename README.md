@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lspdfrzach
-- 👀 I’m working on TAN Systems
+- 👀 I’m working on FiveLine!
 - 🌱 I’m currently learning Python, Javascript, and React
-- 💞️ I’m looking to collaborate on TAN Systems
+- 💞️ I’m looking to collaborate on Fiveline
 - 📫 How to reach me Email: gamexplain55@gmail.com
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I'm a trainee with coding and own TAN Systems! Now HIRING.
