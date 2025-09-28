@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @lspdfrzach
-- 👀 I’m working on FiveLine!
+- 👋 Hi, I’m @lspdfrzach or shadeofarcadia.
+- 👀 I’m working on nothing as of now.
 - 🌱 I’m currently learning Python, Javascript, and React
-- 💞️ I’m looking to collaborate on Fiveline
-- 📫 How to reach me Email: gamexplain55@gmail.com
+- 💞️ I’m looking to collaborate on Discord or Roblox
+- 📫 How to reach me Email: shadeofarcadia.mint.tech@gmail.com
 - 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: I'm a trainee with coding and own TAN Systems! Now HIRING.
 
 <!---
 lspdfrzach/lspdfrzach is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
